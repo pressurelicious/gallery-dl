@@ -9,7 +9,7 @@ from gallery_dl.extractor import kemono
 
 __tests__ = (
 {
-    "#url"     : "https://coomer.su/onlyfans/user/alinity/post/125962203",
+    "#url"     : "https://coomer.su/onlyfans/user/kngjoseee/post/1589342964",
     "#comment" : "coomer (#2100)",
     "#category": ("", "coomer", "onlyfans"),
     "#class"   : kemono.KemonoPostExtractor,
